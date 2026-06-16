@@ -1,4 +1,4 @@
-# Personagens Biblicos por Livro
+# Personagens Bíblicos por Livro
 
 Este repositorio contem um arquivo JSON com uma lista de personagens biblicos organizados por livro da Biblia.
 
